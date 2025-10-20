@@ -40,4 +40,4 @@ C, Python, Java, JavaScript, HTML, CSS, React, Django REST Framework
 ---
 
 📫 **Connect with me:**  
-[GitHub](https://github.com/HajarEssaoudi) |[linkedin](https://github.com/HajarEssaoudi) 
+[GitHub](https://github.com/HajarEssaoudi) |[linkedin](https://www.linkedin.com/in/hajar-es-saoudi-a3b840203/) 
