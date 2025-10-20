@@ -18,8 +18,9 @@ I focus on practical learning, taking on challenges across different domains to 
 ### 42 School Projects
 - **Libft** – Custom C library, mastering pointers and memory handling.  
 - **So_Long** – 2D game using **MLX**, with player movement, map handling, and event logic.  
-- **Push_Swap** – Stack-based sorting algorithms with **Radix sort** and operation optimization.  
+- **Push_Swap** – Stack-based sorting algorithms with **Radix sort** and operation optimization.
 - **Minitalk** – Client-server communication via **UNIX signals**, learning inter-process communication.
+- **Minishell** – Small shell implementation in C, handling parsing, execution, and built-in commands.  
 
 ### PFE Project
 - **Smart Recruitment Platform** – Full-stack web app using **Django REST Framework** and **React**.  
