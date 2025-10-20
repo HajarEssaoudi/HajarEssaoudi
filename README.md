@@ -21,7 +21,7 @@ I focus on practical learning, taking on challenges across different domains to 
 - **Push_Swap** – Stack-based sorting algorithms with **Radix sort** and operation optimization.  
 - **Minitalk** – Client-server communication via **UNIX signals**, learning inter-process communication.
 
-### Capstone / PFE Project
+### PFE Project
 - **Smart Recruitment Platform** – Full-stack web app using **Django REST Framework** and **React**.  
   - **AI Matching:** Cosine similarity between CVs and job offers.  
   - **Salary Suggestion:** Pre-trained AI model estimates competitive salaries.  
