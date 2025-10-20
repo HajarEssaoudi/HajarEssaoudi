@@ -1,45 +1,64 @@
-# 👋 Hi, I am Hajar!
+# 👋 Hi, I’m Hajar Essaoudi
 
-### 🎓 Fresh Graduate | 🚀 Exploring Everything Tech | 💡 Member of the 42 Network
+### 🎓 Computer Science Graduate | 💻 Full-Stack & Systems Enthusiast | 🚀 42 Network Member
 
-## 🌱 My Journey
-I recently graduated in **Computer Science** 🎓, and I'm still figuring out which specialty excites me the most. So, what’s the plan? **Try everything**! 🚀 This is my journey of exploration—where every line of code is an adventure.
+---
 
-Currently, I'm part of the **42 Network** (yeah, the one where we code, debug, and try not to lose our sanity 😅) learning **C**. Let’s just say pointers are… interesting. 🔍
+## 🌱 About Me
+I recently graduated in **Computer Science** and am exploring different domains in tech to find my true passion. My philosophy is simple: **learn by doing, and try everything**.  
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=HajarEssaoudi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+I’m part of the **42 Network**, where I sharpen my skills in **C programming**, data structures, and algorithmic thinking. Through projects, I’ve developed a strong foundation in **low-level programming, memory management, and software design**.  
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+---
+
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 🚀 My Learning Adventures
-- 📖 **Learning C**: I’m tackling the fundamentals one line at a time. 💪
-- 🌌 Exploring **different domains** like:
-  - 🔐 **Cybersecurity**: Because who doesn’t want to be a hacker for the good guys?
-  - 🤖 **AI & ML**: Making machines smarter (or trying to).
-  - 💻 **Full-Stack Development**: Web magic ✨, backend power ⚡, and a bit of CSS chaos.
+---
 
-## 🛠️ What I’m Working On
-- **libft**: Currently, I'm working on building my own library in **C** that includes custom versions of common functions—basically re-inventing the wheel and learning a ton while I do it! 🛞✨
+## 🚀 My Projects
 
-## 🚧 The “Try Everything” Plan
-- **Backend & APIs**: Because data and logic are cool.
-- **Mobile Apps**: Gotta bring ideas to your pocket, right?
-- **DevOps**: Maybe I like servers more than I think?
+### **42 School Projects**
+- **Libft**: Custom C library implementing standard functions—strengthening my understanding of **pointers, memory management, and modular coding**.  
+- **So_Long**: 2D game using **MLX** to practice **graphics, event handling, and game logic**.  
+- **Push_Swap**: Stack-based sorting project with **Radix algorithm** and efficient operation management.  
+- **Minitalk**: Client-server communication via **UNIX signals**, learning **inter-process communication** and **bit-level data encoding**.  
 
-Who knows where this journey will take me, but I’m ready to **learn**, **build**, and **have fun** with whatever comes next! 🎉
+### **Capstone / PFE Project**
+- **Smart Recruitment Platform**: Full-stack web application integrating **AI for job matching and salary suggestions**. Built with **Django REST Framework** and **React** for candidates and recruiters.
 
-## 🧭 Find Me Here
-- **42 Network** — learning to code in **C**, because simplicity is… complicated! 😉
-- **GitHub** — tinkering with all sorts of projects, making a few bugs along the way. 🐞
+---
 
-Feel free to **star** 🌟 any project you find interesting, or reach out if you have suggestions for my next **challenge**! 🚀
+## 🌌 Areas of Interest
+- **Systems Programming & C**: Deep understanding of memory, pointers, and low-level computation.  
+- **Web & Full-Stack Development**: Backend APIs, frontend React interfaces, and database management.  
+- **AI & Machine Learning**: Applying models for real-world problems like job matching and prediction.  
+- **Cybersecurity & DevOps**: Exploring security practices, deployment, and system optimization.
+
+---
+
+## 🛠️ Current Focus
+- Improving my **C and low-level programming skills** through 42 projects.  
+- Building **web applications with AI integrations** for real-world use cases.  
+- Exploring **DevOps pipelines and deployment** to make projects production-ready.  
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=HajarEssaoudi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+---
+
+## 🧭 Connect with Me
+- **42 Network** — honing C and algorithmic skills.  
+- **GitHub** — exploring projects, contributing, and sharing knowledge.  
+
+I’m always looking for new challenges and opportunities to learn. Feel free to **star** 🌟 any project or **reach out** if you want to collaborate! 🚀
